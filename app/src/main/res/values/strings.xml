@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SuperMarioNetCall</string>
+    <string name="marios">Marios</string>
+    <string name="all_marios">All Marios</string>
+</resources>
